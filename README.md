@@ -1,0 +1,2 @@
+# TypeScript solid pattern
+
