@@ -1,7 +1,7 @@
 {
   "name": "typescript-solid-pattern",
   "version": "1.0.0",
-  "description": "",
+  "description": "Guidelines for writing principles written in typescript.",
   "main": "index.js",
   "author": "naohito-T",
   "license": "MIT",
